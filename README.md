@@ -1,6 +1,6 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my AI Agent Portfolio! I'm Prabhakaran Jayaraman Masani, a technology professional with extensive experience in cloud platforms and enterprise solutions. Having worked with leading companies like Virgin Media O2 and holding multiple certifications from Microsoft, IBM, and AWS, I've channeled my passion for transforming complex challenges into streamlined solutions by creating practical AI agents that save time and enhance productivity.
+Welcome to my AI Agent Portfolio! I'm Prabhakaran Jayaraman Masani, a technology professional with extensive experience in cloud platforms and enterprise solutions. Having worked with leading companies like Virgin Media O2 and holding multiple certifications from Google Cloud, Microsoft, IBM, and AWS, I've channeled my passion for transforming complex challenges into streamlined solutions by creating practical AI agents that save time and enhance productivity.
 
 ---
 
