@@ -129,6 +129,6 @@ Ready to streamline your workflows with AI? I specialize in creating practical A
 - **Cloud platform integration**
 - **Enterprise AI consulting**
 
-[📬 Contact me](mailto:prabhakaranjm@example.com) or [Connect with me on LinkedIn](https://www.linkedin.com/in/prabhakaranjm)
+[📬 Contact me](mailto:prabhakaranjm@gmail.com) or [Connect with me on LinkedIn](https://www.linkedin.com/in/prabhakaranjm)
 
 *Based in Reading, England, UK | 15K+ LinkedIn followers | Cloud & AI Solutions Expert*
